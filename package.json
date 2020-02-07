@@ -1,0 +1,22 @@
+{
+  "name": "learn-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack",
+    "dev": "npm run webpack -- mode development",
+    "dev:watch": "npm run webpack -- --mode development --watch",
+    "prod": "npm run webpack -- --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.41.5"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.10"
+  }
+}
