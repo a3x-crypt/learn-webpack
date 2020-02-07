@@ -1,1 +1,1 @@
-Learn Webpack from scratch 
+Learn Webpack from scratch
